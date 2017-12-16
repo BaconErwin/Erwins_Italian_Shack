@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erwins_Italian_Shack.POS", "Erwins_Italian_Shack.POS\Erwins_Italian_Shack.POS.csproj", "{5D8A8B2E-406E-4A0F-A88F-865A41636048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erwins_Italian_Shack.Domain", "Erwins_Italian_Shack.Domain\Erwins_Italian_Shack.Domain.csproj", "{A3DBA420-3A4B-4BBF-8918-8E05F8CFCDAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8A8B2E-406E-4A0F-A88F-865A41636048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8A8B2E-406E-4A0F-A88F-865A41636048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8A8B2E-406E-4A0F-A88F-865A41636048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8A8B2E-406E-4A0F-A88F-865A41636048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DBA420-3A4B-4BBF-8918-8E05F8CFCDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DBA420-3A4B-4BBF-8918-8E05F8CFCDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DBA420-3A4B-4BBF-8918-8E05F8CFCDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DBA420-3A4B-4BBF-8918-8E05F8CFCDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD2D4078-5A8D-4B8E-8CE0-D71786B748BE}
+	EndGlobalSection
+EndGlobal

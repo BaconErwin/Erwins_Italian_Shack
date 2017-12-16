@@ -1,0 +1,11 @@
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\bin\Debug\Erwins_Italian_Shack.Domain.dll.config
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\bin\Debug\Erwins_Italian_Shack.Domain.dll
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\bin\Debug\Erwins_Italian_Shack.Domain.pdb
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\bin\Debug\EntityFramework.dll
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\bin\Debug\EntityFramework.xml
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\obj\Debug\Erwins_Italian_Shack.Domain.csprojResolveAssemblyReference.cache
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\obj\Debug\Erwins_Italian_Shack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\obj\Debug\Erwins_Italian_Shack.Domain.dll
+C:\Users\COMLABPC10\source\repos\Erwins_Italian_Shack\Erwins_Italian_Shack.Domain\obj\Debug\Erwins_Italian_Shack.Domain.pdb
